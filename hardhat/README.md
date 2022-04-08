@@ -13,3 +13,5 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+Chainlink Subscription ID 2558
+https://vrf.chain.link/rinkeby/2558
