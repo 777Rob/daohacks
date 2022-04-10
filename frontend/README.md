@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+npm install @mantine/spotlight @mantine/rte @mantine/prism @mantine/notifications @mantine/modals @mantine/hooks @mantine/form @mantine/dropzone @mantine/dates @mantine/core @mantine/next
+
 ```bash
 npm run dev
 # or
