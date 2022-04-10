@@ -32,3 +32,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Welcome to the NFT Community Protocols!
+
+Our protocol is automatically generated and based on smart contracts and the Ethereum blockchain. This provides a secure and decentralized way to manage your NFTs.
+
+We offer a variety of features and tools to help you get the most out of your NFTs. Our protocol is constantly being updated with new features, so be sure to check back often!
+
+Thank you for being a part of our community.
+
+Welcome to the future of NFT communities! Our automatically generated communities provide even more utility for NFT token holders by build on smart contract. With our cutting-edge technology, you can easily create and manage your own community with ease. So what are you waiting for? Join us today and experience the power of the community!
+
+Welcome to the automatically generated NFT communities that provide even more utility for NFT token holders! By building on smart contracts, we are able to provide a more seamless experience for our users. As a result, people who own the most popular NFTs, like ERC721 and ERC1151, are automatically eligible to join the community of that token for free. This allows them to interact with other members, receive updates about the community, and participate in its governance. We hope that you take advantage of this platform and use it to grow your community and create value for all of its members. Thank you for being here!

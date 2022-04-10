@@ -1,0 +1,29 @@
+{
+    type Message{
+        sender: String!
+        content: String!
+        timeStampPosted: number;
+        messageId: id;
+    }
+
+    type Reply{
+        author: String!;
+        content: String!;
+        timeStampPosted: number;
+        replyId: id;
+        upVotes: number;
+        downVotes: number;
+    }
+
+    type ForumTopic{
+        author: String!;
+        timeStampPosted: number;
+        postId: id;
+        tier: number;
+    }
+
+    type ChatChannel{
+        channel: 
+    }
+
+}
