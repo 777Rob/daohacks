@@ -25,7 +25,11 @@ async function main() {
     "0x78e0f68e9b1cc533bb40c4cab027f0e302acd0f1"
   );
 
-  console.log("DummyNft Club was deployed to:", dummyNftClub);
+  console.log("DummyNft Club was deployed to:", dummyNftClub.address);
+  console.log(
+    "Club Factory deployed contract addresses: ",
+    clubFactory.allClubs
+  );
 }
 
 // We recommend this pattern to be able to use async/await everywhere
